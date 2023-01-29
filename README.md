@@ -53,6 +53,7 @@ F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')'
 ##### Timing Diagram
 <img width="669" alt="image" src="https://user-images.githubusercontent.com/121109150/214826004-1fa2e131-a9e9-4e7f-8c05-cdbd070ab33a.png">
 
+
 ##### Truth Table:
 ![image](https://user-images.githubusercontent.com/121109150/214826053-e541c2b6-73a1-492c-b696-0c2b9e5bc2c5.png)
 
@@ -62,6 +63,8 @@ F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')'
 
 ##### Timing Diagram
 <img width="661" alt="image" src="https://user-images.githubusercontent.com/121109150/214826330-36eaa55a-6699-4de1-88f0-7991235ca4a6.png">
+
+
 ##### Truth Table:
 <img width="667" alt="image" src="https://user-images.githubusercontent.com/121109150/214826434-93bf051f-3c56-48e4-89ce-6cfa385c5c92.png">
 
